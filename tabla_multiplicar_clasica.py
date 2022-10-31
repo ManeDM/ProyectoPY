@@ -1,6 +1,6 @@
 numero = int(input("Tu numero aquí"))
 
-print(numero, "X 1 =", numero * 1)
+print(numero, "X 1 =", numero * 2)
 print(numero, "X 2 =", numero * 2)
 print(numero, "X 3 =", numero * 3)
 print(numero, "X 4 =", numero * 4)
