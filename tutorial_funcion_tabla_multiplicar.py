@@ -1,4 +1,4 @@
-number = 8
+number = int(input("Tu numero aqui"))
 
 def view_line(num, line):
     print(num,"x", line, "=", num * line)
